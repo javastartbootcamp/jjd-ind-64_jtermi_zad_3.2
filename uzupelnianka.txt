@@ -3,7 +3,7 @@ do operowania na tych zmiennych
 
 Obiekt to element stworzony przez konstruktor klasy. Objekt daje dostep do metod zdefiniowanych w klasie
 
-Zmienna to jednostka która może przyjmować znaczenia określonego typu
+Zmienna to jednostka która może przyjmować znaczenia określonego typu.
 
 Każda zmienna musi mieć określony typ, np. int, albo String.
 
